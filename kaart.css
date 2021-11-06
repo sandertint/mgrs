@@ -1,0 +1,1 @@
+*{margin:0;padding:0}.map{height:600px;width:100%;margin:0}#save-button{position:absolute;left:10px;top:100px;z-index:100;font-size:15px;font-weight:600;line-height:1;padding:10px}#save-button::after{content:"▶";color:#0f0}.activated::after{content:"⏹"!important;color:red!important}
